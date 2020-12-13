@@ -7,7 +7,6 @@
       <p><b>厦门大学信息学院</b></p>
       <p><b>邮箱：1078524540@qq.com</b></p>
       <p><b>地址：厦门市翔安区厦门大学翔安校区，芙蓉10楼</b></p>
-      <p><b>偶像：IU</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
